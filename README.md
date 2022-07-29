@@ -5,3 +5,5 @@
 ### 2nd. Transformer
 
 ### 3rd. Word Embedding
+
+### 4th. Anomaly Detection
